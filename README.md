@@ -13,12 +13,12 @@ Directory Structure under MusicProject <br/>
 > * processed_dir ( valid and invalid data after enrichment from each batch) <br/>
 > * ScalaClass ( scala code for spark analysis) <br/>
 
-Process to run:
+**PROCESS TO RUN**
 
 > 1. First run hbase-lookup.sh to populate the lookup tables in hbase
 > 2. Schedule music_data_analysis.sh to run for every 3 hours to music analysis
 
-** Software requirement: **
+**SOFTWARE REQUIREMENT**
 >Softwares OS: Centos <br/>
 >Hadoop 2.6 <br/>
 >Hive 1.2.1 <br/>
