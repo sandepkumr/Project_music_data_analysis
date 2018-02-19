@@ -2,6 +2,8 @@
 
 set -e
 
+source /home/acadgild/.bashrc
+
 #All the below scripts will work based on the data provided by acadgild as data/web/file.xml and data/mob/file.txt
 
 cycleid=`cat /home/acadgild/MusicProject/logs/cycle.txt`
