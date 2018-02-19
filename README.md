@@ -3,7 +3,7 @@
 MusicProject folder to be downloaded and placed in /home/acadgild/ folder.
 
 Directory Structure under MusicProject <br/>
-<font color="#990000"> ==> logs ( Logs from running the script and current batch number ) </font> <br/> 
+==> logs ( Logs from running the script and current batch number ) <br/> 
 ==> lib ( hive xml serde jar ) <br/>
 ==> spark ( Spark jar for music analysis ) <br/>
 ==> Scripts ( All the scripts ) <br/>
