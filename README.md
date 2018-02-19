@@ -24,7 +24,8 @@ Directory Structure under MusicProject <br/>
 >Hive 1.2.1 <br/>
 >Sqoop 1.4.5 <br/>
 >Mysql 5.1.73 <br/>
->Hbase 0.99.14-hadoop2 Spark 2.0.0 <br/>
+>Hbase 0.99.14-hadoop2 <br/> 
+>Spark 2.0.0 <br/>
 
 
 --Sandeep
