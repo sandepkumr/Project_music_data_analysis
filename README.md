@@ -18,5 +18,13 @@ Process to run:
 > 1. First run hbase-lookup.sh to populate the lookup tables in hbase
 > 2. Schedule music_data_analysis.sh to run for every 3 hours to music analysis
 
+Software:
+>Softwares OS: Centos <br/>
+>Hadoop 2.6 <br/>
+>Hive 1.2.1 <br/>
+>Sqoop 1.4.5 <br/>
+>Mysql 5.1.73 <br/>
+>Hbase 0.99.14-hadoop2 Spark 2.0.0 <br/>
+
 
 --Sandeep
