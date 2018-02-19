@@ -2,13 +2,13 @@
 
 MusicProject folder to be downloaded and placed in /home/acadgild/ folder.
 
-Directory Structure
-==> logs ( Logs from running the script and current batch number )
-==> lib ( hive xml serde jar )
-==> spark ( Spark jar for music analysis )
-==> Scripts ( All the scripts )
-==> Data ( Location of loopup and incoming files )
-==> processed_dir ( valid and invalid data after enrichment from each batch)
+Directory Structure under MusicProject <br/>
+==> logs ( Logs from running the script and current batch number ) <br/>
+==> lib ( hive xml serde jar ) <br/>
+==> spark ( Spark jar for music analysis ) <br/>
+==> Scripts ( All the scripts ) <br/>
+==> Data ( Location of loopup and incoming files ) <br/>
+==> processed_dir ( valid and invalid data after enrichment from each batch) <br/>
 
 Process to run:
 
