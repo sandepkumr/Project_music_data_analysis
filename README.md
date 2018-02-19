@@ -15,8 +15,8 @@ Directory Structure under MusicProject <br/>
 
 Process to run:
 
-1. First run hbase-lookup.sh to populate the lookup tables in hbase
-2. Schedule music_data_analysis.sh to run for every 3 hours to music analysis
+> 1. First run hbase-lookup.sh to populate the lookup tables in hbase
+> 2. Schedule music_data_analysis.sh to run for every 3 hours to music analysis
 
 
 --Sandeep
